@@ -1,1 +1,2 @@
-# t.me/questionandansweairbot
+# Телеграм бот с ИИ
+[Сам бот](t.me/questionandansweairbot)
