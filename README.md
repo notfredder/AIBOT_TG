@@ -1,3 +1,4 @@
 # Телеграм бот с ИИ
-[Сам бот](t.me/questionandansweairbot) /b
+[Сам бот](t.me/questionandansweairbot)
+
 @questionandansweairbot
